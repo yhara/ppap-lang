@@ -1,8 +1,6 @@
-# Programming Language PPAP
+# PPAP
 
-## Background
-
-https://www.youtube.com/watch?v=0E00Zuayv9Q
+PPAP is a (maybe yet another) programming language inspired by https://www.youtube.com/watch?v=0E00Zuayv9Q
 
 ## Example
 
