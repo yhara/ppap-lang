@@ -35,7 +35,18 @@ Uh! Jump-Apple-Pen    # Loop
 
 ### FizzBuzz
 
-[examples/fizbuzz.ppap](examples/fizbuzz.ppap)
+[examples/fizbuzz.ppap](https://github.com/yhara/ppap-lang/blob/master/examples/fizzbuzz.ppap)
+
+## How to run
+
+This implementation is written in Ruby.
+
+```
+$ git clone https://github.com/yhara/ppap-lang/
+$ bundle install
+$ bundle exec ppap exec examples/ppap.ppap
+PPAP
+```
 
 ## Language Spec
 
