@@ -175,8 +175,8 @@ Print the value of A as a number
 
 Example:
 
-    I have 97 Apples
-    Uh! Print-Apples
+    I have 97 Apple
+    Uh! Print-Apple
     #=> 97
 
 #### PUTC(Put)
@@ -187,14 +187,14 @@ Print the character whose character code is A
 
 Example:
 
-    I have 97 Apples
-    Uh! Put-Apples
+    I have 97 Apple
+    Uh! Put-Apple
     #=> a
 
 Put can take more than one arguments.
 
-    I have 97 Apples
-    Uh! Put-Apples-Apples-Apples
+    I have 97 Apple
+    Uh! Put-Apple-Apple-Apple
     #=> aaa
 
 #### GETC(Pick)
