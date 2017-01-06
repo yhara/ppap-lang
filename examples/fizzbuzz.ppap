@@ -1,0 +1,62 @@
+I have no Soap
+I have 70 Flip
+I have 105 Ipod
+I have 122 Zapper
+I have 66 Bishop
+I have 117 Up
+I have 10 Nap
+I have 3 Gap
+I have 5 Grape
+I have 15 Grapefruit
+I have 20 Gatekeeper
+
+I have no Pen      # Counter
+I have an Apple
+Uh! Apple-Pen     # Label for loop start
+
+Uh! Append-Pen-Apple  # Increment ct
+Uh! Superior-Pen-Gatekeeper-Pen-Pinapple-Apple-Pen!
+
+I have Tmp1
+Uh! Replace-Tmp1-Pen
+Uh! Chop-Tmp1-Grapefruit
+Uh! Multiply-Tmp1-Grapefruit
+I have Tmp2
+Uh! Replace-Tmp2-Pen
+Uh! Rip-Tmp2-Tmp1
+Uh! Compare-Tmp2-Soap-Flip-Pen!?
+Uh! Put-Flip-Ipod-Zapper-Zapper-Bishop-Up-Zapper-Zapper-Nap
+Uh! Jump-Apple-Pen
+
+Flip-Pen
+
+I have Tmp1
+Uh! Replace-Tmp1-Pen
+Uh! Chop-Tmp1-Grape
+Uh! Multiply-Tmp1-Grape
+I have Tmp2
+Uh! Replace-Tmp2-Pen
+Uh! Rip-Tmp2-Tmp1
+Uh! Compare-Tmp2-Soap-Bishop-Pen!?
+Uh! Put-Flip-Ipod-Zapper-Zapper-Nap
+Uh! Jump-Apple-Pen
+
+Bishop-Pen
+
+I have Tmp1
+Uh! Replace-Tmp1-Pen
+Uh! Chop-Tmp1-Gap
+Uh! Multiply-Tmp1-Gap
+I have Tmp2
+Uh! Replace-Tmp2-Pen
+Uh! Rip-Tmp2-Tmp1
+Uh! Compare-Tmp2-Soap-Nap-Pen!?
+Uh! Put-Bishop-Up-Zapper-Zapper-Nap
+Uh! Jump-Apple-Pen
+
+Nap-Pen
+Uh! Print-Pen
+Uh! Put-Nap
+Uh! Jump-Apple-Pen
+
+Pen-Pinapple-Apple-Pen
