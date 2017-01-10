@@ -27,7 +27,7 @@ module PPAP
       "Pick" => [[:GETC, 1..1]],
                    # commands for ("", "!", "?", "!?")
       "Compare" => [[:EQ, 2..2], [:JEQ, 2..INF], [:NE, 2..2], [:JNE, 2..INF]],
-      "Superior" => [[:GT, 2..2], [:JGT, 2..INF], [:JE, 2..2], [:JGE, 2..INF]],
+      "Superior" => [[:GT, 2..2], [:JGT, 2..INF], [:GE, 2..2], [:JGE, 2..INF]],
       "Jump" => [[:JMP, 1..INF]],
     }
 
